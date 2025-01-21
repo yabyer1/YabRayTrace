@@ -27,7 +27,7 @@ public:
         return *this;
     }
     vec3& operator /=(double t){
-       
+        
         return *this *= 1/t;
     }
     double length() const {
@@ -36,6 +36,7 @@ public:
     double length_squared() const {
         return e[0] * e[0] + e[1] * e[1] + e[2] * e[2];
     }
+};
     
     using point3 = vec3;
     
@@ -75,5 +76,5 @@ public:
     
     
     
-};
+
 #endif
