@@ -1,7 +1,7 @@
 #ifndef HITTABLE_H
 #define HITTABLE_H
 #include "ray.h"
-class hit_record{
+class hit_record{ //for figuring out how a ray intersects with a hittable object
 public: point3 p;
     vec3 normal;
     double t;
