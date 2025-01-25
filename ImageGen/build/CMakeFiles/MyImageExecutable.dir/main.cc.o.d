@@ -826,8 +826,8 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdarg \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/color.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/vec3.h \
-  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/ray.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/interval.h \
+  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/ray.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable_list.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/vector \
@@ -856,4 +856,5 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/sphere.h
+  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/sphere.h \
+  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/camera.h

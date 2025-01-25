@@ -851,6 +851,7 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: /Users/ganapathynagasubramaniam/Desk
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdint.h \
+  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/camera.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/color.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable_list.h \
@@ -872,6 +873,8 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: /Users/ganapathynagasubramaniam/Desk
 /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable_list.h:
 
 /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/color.h:
+
+/Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/camera.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h:
 
