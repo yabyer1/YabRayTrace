@@ -857,4 +857,5 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__split_buffer \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/sphere.h \
+  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/material.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/camera.h

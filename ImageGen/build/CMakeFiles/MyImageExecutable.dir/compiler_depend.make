@@ -856,6 +856,7 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: /Users/ganapathynagasubramaniam/Desk
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/hittable_list.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/interval.h \
+  /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/material.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/ray.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/rtweekend.h \
   /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/sphere.h \
@@ -867,6 +868,8 @@ CMakeFiles/MyImageExecutable.dir/main.cc.o: /Users/ganapathynagasubramaniam/Desk
 /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/rtweekend.h:
 
 /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/ray.h:
+
+/Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/material.h:
 
 /Users/ganapathynagasubramaniam/Desktop/YabRayTrace/ImageGen/interval.h:
 

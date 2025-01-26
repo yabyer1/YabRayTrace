@@ -1,9 +1,11 @@
 #ifndef HITTABLE_H
 #define HITTABLE_H
 #include "ray.h"
+class material;
 class hit_record{ //for figuring out how a ray intersects with a hittable object
 public: point3 p;
     vec3 normal;
+    shared_ptr<material> mat;
     double t;
     bool front_face;
     void set_face_normal(const ray& r, const vec3& outward_normal){
